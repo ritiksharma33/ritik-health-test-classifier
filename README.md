@@ -10,7 +10,7 @@ Try the app here: # 🩺 Medical Test Result Classifier
 This is a simple yet powerful **Streamlit web app** that predicts whether a patient's medical test result is **Normal**, **Abnormal**, or **Inconclusive** using a **Logistic Regression model** trained on synthetic medical data.
 
 ## 🚀 Live Demo
-Try the app here: [https://your-app-link.streamlit.app](https://your-app-link.streamlit.app)  
+Try the app here: https://ritik-health-test-classifier-ggzevwtpvciw6vsjyzugca.streamlit.app/
 
 
 ---
